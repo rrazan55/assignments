@@ -1,6 +1,0 @@
-print("i like pasta")
-first_name = "razan"
-print (first_name)
-age = 17 
-print (f"my age is {age}")
-    
